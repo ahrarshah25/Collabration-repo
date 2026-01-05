@@ -1,0 +1,10 @@
+.div{
+    width: 80%;
+    margin: 2rem auto;
+    background-color: red;
+    height: 80dvh;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
